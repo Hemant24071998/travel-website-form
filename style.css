@@ -5,10 +5,16 @@
 }
 body{
   background-image: url(main-qimg-f096197e118bbbb8caf97ce22c83e9d6.jfif);
+  height: 500px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  opacity:0.8
+  ;
 }
 .container{
-width: 80%;
-background-color: #69DADB;
+widows:width: 80%;
 padding: 20px;
 margin: auto;
 
